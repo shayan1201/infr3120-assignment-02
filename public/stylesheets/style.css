@@ -80,3 +80,22 @@ footer a:hover {
 .home-card p {
     margin-bottom: 0;
 }
+
+/* About page cards */
+.about-card {
+    background-color: white;
+    padding: 30px;
+    height: 100%;
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+}
+
+.about-card h2 {
+    margin-bottom: 15px;
+}
+
+.about-section {
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
