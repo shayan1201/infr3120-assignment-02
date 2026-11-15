@@ -52,3 +52,31 @@ footer a {
 footer a:hover {
     text-decoration: underline;
 }
+
+/* Homepage hero section */
+.hero-section {
+    padding: 60px 20px 30px;
+}
+
+.hero-description {
+    max-width: 700px;
+    margin: 20px auto 0;
+    font-size: 1.1rem;
+}
+
+/* Homepage information cards */
+.home-card {
+    background-color: white;
+    padding: 30px 20px;
+    height: 100%;
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+}
+
+.home-card h2 {
+    margin-bottom: 15px;
+}
+
+.home-card p {
+    margin-bottom: 0;
+}
