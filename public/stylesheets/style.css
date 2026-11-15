@@ -99,3 +99,25 @@ footer a:hover {
     margin-left: auto;
     margin-right: auto;
 }
+
+/* Project page cards */
+.project-card {
+    background-color: white;
+    padding: 30px;
+    height: 100%;
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+    transition: transform 0.2s;
+}
+
+.project-card:hover {
+    transform: translateY(-4px);
+}
+
+.project-card h2 {
+    margin-bottom: 15px;
+}
+
+.project-card p {
+    margin-bottom: 20px;
+}
